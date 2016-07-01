@@ -53,7 +53,7 @@ import StarcraftData from './views/StarcraftData';
         let starcraftProfile = new StarcraftProfile();
         new StarcraftData({el:"#content-area", model: starcraftProfile});
 
-        Backbone.history.start({pushState: true, root: '/FED01/Eindopdracht/'}); //Change to your root URL
+        Backbone.history.start({pushState: true, root: '/0895131/Jaar2/Eindopdracht/'}); //Change to your root URL
     };
 
     window.addEventListener('load', init);

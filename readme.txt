@@ -27,14 +27,4 @@ Stormscale
 Battle.net ID:
 sven-23455
 
-
-NOTE: Waarschijnlijk zal je ROOT url ook nog even moeten aanpassen wanneer je aan de slag gaat.
-Index.html : 
-Regel 6 & 7 - stylesheet.
-Regel 14 & 15 & 16 & 17  - img met link naar img map.
-Regel 216 - Bundle.js link
-
-Main.js:
-Regel 56 - Backbone.history.start({pushState: true, root: '/FED01/Eindopdracht/'});
-
-En dat waren alle links. Veel succces met nakijken!
+Veel succces met nakijken!
