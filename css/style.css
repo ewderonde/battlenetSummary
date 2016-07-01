@@ -1,0 +1,84 @@
+div#game-links {
+    text-align: center;
+}
+
+div#game-links img {
+	max-width: 100px !important;
+	height: auto !important;
+	padding:15px;
+}
+
+body {
+	background: url(/FED01/Eindopdracht/img/background1.jpg);
+	font-family: 'Open Sans', sans-serif;
+}
+
+#content-area {	
+	padding-top:50px;
+	color: white;
+	text-align: center;
+}
+#content-area img {
+	width:100px;
+	border-radius: 10px;
+	border: 3px solid black;
+}
+#content-area ul {
+	list-style: none;
+}
+
+
+.settingsForm input{
+	margin:5px;
+	text-align: center;
+	color:black;
+	width:100%;
+}
+.settingsForm{
+	margin:0 auto;
+}
+
+.settingsForm label{
+	/*margin-top:10px;*/
+}
+
+table {
+	text-align: left;
+}
+.portraitImg{
+	width: 90px;
+    height: 90px;
+    margin: 0px auto 20px auto;
+    display: inline-block;
+}
+
+#settings {
+	left:20px;
+	top:20px;
+	position: absolute;
+}
+#settings img {
+	/*width:25px;
+	height:25px;*/
+}
+.table.gearList {
+	width:75%;
+	margin:0 auto;
+}
+
+.contentbox {
+	margin:15px;
+}
+.herolist {
+	margin:0 auto;
+	width:50%;
+	text-align: center;	
+}
+.herolist th{
+	text-align:center;
+}
+
+
+.bold {
+	font-weight:bold;
+}
